@@ -1,0 +1,25 @@
+vendor/
+
+# Data runtime berisi akun dan transaksi
+/data/pengguna.json
+/data/transaksi.json
+/data/*.lock
+
+# Konfigurasi rahasia lokal
+.env
+.env.*
+!.env.example
+
+# Log dan file sementara
+*.log
+*.tmp
+*.temp
+
+# File sistem operasi dan editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# File uji locking yang dibuat saat latihan
+/latihan/uji.lock

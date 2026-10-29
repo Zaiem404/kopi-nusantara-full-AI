@@ -1,0 +1,112 @@
+{
+    "site": {
+        "nama": "Kopi Nusantara",
+        "email": "halo@kopinusantara.test"
+    },
+    "menu": [
+        {
+            "id": "beranda",
+            "label": "Beranda"
+        },
+        {
+            "id": "produk",
+            "label": "Produk"
+        },
+        {
+            "id": "kontak",
+            "label": "Kontak"
+        }
+    ],
+    "produk": [
+        {
+            "id": 1,
+            "slug": "toraja",
+            "nama": "Kopi Torajakkk",
+            "asal": "Sulawesi Selatan",
+            "kategori": "arabika",
+            "harga": 85000,
+            "stok": 100,
+            "deskripsi": "Body tebal, aroma rempah dan cokelat gelap.",
+            "gambar": "img/kopi-toraja.png",
+            "alt": ""
+        },
+        {
+            "id": 2,
+            "stok": 60,
+            "gambar": "img/kopi-gayo.jpg",
+            "slug": "gayo",
+            "nama": "Kopi Gayo",
+            "asal": "Aceh",
+            "kategori": "arabika",
+            "harga": 80000,
+            "deskripsi": "Rasa bersih dengan sentuhan karamel."
+        },
+        {
+            "id": 3,
+            "stok": 60,
+            "gambar": "img/kopi-kintamani.jpg",
+            "slug": "kintamani",
+            "nama": "Kopi Kintamani",
+            "asal": "Bali",
+            "kategori": "arabika",
+            "harga": 90000,
+            "deskripsi": "Keasaman cerah seperti jeruk, ringan dan segar."
+        },
+        {
+            "id": 4,
+            "stok": 8,
+            "gambar": "img/kopi-bajawa.jpg",
+            "slug": "bajawa",
+            "nama": "Kopi Bajawa",
+            "asal": "Flores",
+            "kategori": "arabika",
+            "harga": 88000,
+            "deskripsi": "Aroma floral dengan aftertaste manis."
+        },
+        {
+            "id": 5,
+            "stok": 51,
+            "gambar": "img/kopi-mandailing.jpg",
+            "slug": "mandailing",
+            "nama": "Kopi Mandailing",
+            "asal": "Sumatera Utara",
+            "kategori": "robusta",
+            "harga": 60000,
+            "deskripsi": "Pahit tegas dan kental, cocok untuk kopi susu."
+        },
+        {
+            "id": 6,
+            "stok": 51,
+            "gambar": "img/kopi-jawa.jpg",
+            "slug": "jawa",
+            "nama": "Kopi Jawa",
+            "asal": "Jawa Tengah",
+            "kategori": "robusta",
+            "harga": 65000,
+            "deskripsi": "Rasa earthy dengan aroma kacang panggang."
+        },
+        {
+            "id": 7,
+            "stok": 41,
+            "gambar": "img/produk.png",
+            "slug": "tambahan produk",
+            "nama": "Kopi tambahan",
+            "asal": "Jawa timur",
+            "kategori": "robusta",
+            "harga": 65000,
+            "deskripsi": "Rasa sedikit pahit dengan aroma kacang panggang."
+        },
+        {
+            "id": 8,
+            "slug": "kopi tubruk",
+            "nama": "KOPI GAJAH",
+            "asal": "Sulawesi Selatan",
+            "kategori": "robusta",
+            "harga": 18000,
+            "stok": 40,
+            "deskripsi": "kopi gajah yang selalu ada untuk negeri",
+            "gambar": "img/kopi-gajah.jpg",
+            "alt": "kopi gajah"
+        }
+    ]
+}
